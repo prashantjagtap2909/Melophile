@@ -1,6 +1,6 @@
 # Melophile
 A new music streaming service ( Spotify clone )
-Due to copyright issue not going to host
+Due to copyright issue not going to host but here is the video about this [check now](https://www.linkedin.com/posts/activity-7028258087631228928-09-4?utm_source=share&utm_medium=member_android)
 
 ### Login Page
 
